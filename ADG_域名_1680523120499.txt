@@ -1,3 +1,4 @@
+||nj.cschannel.anticheatexpert.com^
 ||download.2.1212338883.wz.gcloudgbs.com^
 ||pre-download.1.197351998.wz.gcloudgbs.com^
 ||download.1.1212338883.wz.gcloudgbs.com^
@@ -319,6 +320,7 @@
 ||guid.tpns.sh.tencent.com^
 ||log.tpns.sh.tencent.com^
 ||stat.tpns.sh.tencent.com^
+*:122.96.96.251$network
 *:101.71.100.28$network
 *:112.64.235.22$network
 *:112.64.235.35$network
